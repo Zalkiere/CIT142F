@@ -1,5 +1,0 @@
-git add
-git commit -m "batch upload"
-git push
-
-:D
